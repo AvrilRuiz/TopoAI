@@ -62,6 +62,14 @@ Se debe elegir 1 de los siguientes lugares geográficos para realizar el anális
 
 - **_Introduction to Geostatistics: Applications in Hydrogeology_** por P. K. Kitanidis
 
+## Google Earth Engine
+
+- [Consola de Google Cloud de Proyecto](https://console.cloud.google.com/cloud-resource-manager?pli=&authuser=1),
+
+  El que permite el acceso a la API de Google Earth Engine.
+
+- [Generar de nuevo Token de Acceso](https://code.earthengine.google.com/client-auth?scopes=https%3A//www.googleapis.com/auth/earthengine%20https%3A//www.googleapis.com/auth/cloud-platform%20https%3A//www.googleapis.com/auth/devstorage.full_control&request_id=MH16AORChUJg6NWAKlqRp1SUnbMQIl167ToZ12JgGVY&tc=s7GdueS9X1Wp0GM9NioclPQWTq44kwnlTidpRzDJ1w4&cc=5tzVFgvCw6x_PJJZT3JHQijaGcJ-n20tg-3IjIR9Kdo)
+
 ## Conceptos
 
 ### Índices
