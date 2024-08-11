@@ -27,7 +27,7 @@ podrı́an indicar expansión urbana o cambios en el uso agrı́cola del suelo.
 
 Se debe elegir 1 de los siguientes lugares geográficos para realizar el análisis:
 
-- ́Área Metropolitana de Monterrey
+- Área Metropolitana de Monterrey
 - Sierra Madre Occidental
 - Región Citrı́cola (_Montemorelos, General Terán, Hualahuises_)
 - Presa El Cuchillo y sus alrededores
