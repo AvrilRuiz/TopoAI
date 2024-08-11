@@ -1,0 +1,5 @@
+ipykernel==6.29.5
+
+# Google Earth Engine
+earthengine-api==0.1.415
+geemap==0.33.1 
